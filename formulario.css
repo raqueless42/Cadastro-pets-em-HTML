@@ -91,7 +91,7 @@ fieldset.grupo .campo{
 }
 
 .botao, select{
-    cursos: poiter;
+    cursor: poiter;
 }
 
 #check{
